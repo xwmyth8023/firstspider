@@ -54,7 +54,9 @@ class NAMES:
             else:
                 break
             
-
+if __name__ = '__main__':
+    babyname = NAMES()
+    babyname.setup()
         
-a = NAMES()
-a.setup()
+#a = NAMES()
+#a.setup()
